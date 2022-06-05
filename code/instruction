@@ -1,0 +1,10 @@
+- Install MySQL Community server, shell, workbench
+- Add Path to windows to run shell
+- Create a pwd for database root, localhost 3306
+- Create a database: inventory
+- Configure $profile powershell to install module
+- Install module: Install-Module SimplySQL
+- Import module: Import-Module SimplySQL 
+- Create a connection for database: Open-MySQLConnection -Server "localhost" -Port "3306" -Credential "root" -Database "inventory"
+- Enter database pw
+- Display database: Invoke-SqlQuery -Query "select * from inventorytable" | Format-Table
