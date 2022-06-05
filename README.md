@@ -7,5 +7,5 @@
 - It is the same as inventory scanner version, but data will be stored in a MySQL database
 - User will also need to make a MySQL database, and a table
 ###### Output:
-<img src="https://github.com/itschanvuong/InventoryTracker/blob/main/img/scannerimg.png" height="150" width="100">
-<img src="https://github.com/itschanvuong/InventoryTracker/blob/main/img/databaseimg.png" height="150" width="100">
+<img src="https://github.com/itschanvuong/InventoryTracker/blob/main/img/scannerimg.png" height="75%" width="75%">
+<img src="https://github.com/itschanvuong/InventoryTracker/blob/main/img/databaseimg.png" height="75%" width="75%">
